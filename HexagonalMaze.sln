@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HexagonalMaze", "HexagonalMaze\HexagonalMaze.vcxproj", "{37996902-1E59-4D5E-B781-BFAAF7AFAC7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37996902-1E59-4D5E-B781-BFAAF7AFAC7A}.Debug|x64.ActiveCfg = Debug|x64
+		{37996902-1E59-4D5E-B781-BFAAF7AFAC7A}.Debug|x64.Build.0 = Debug|x64
+		{37996902-1E59-4D5E-B781-BFAAF7AFAC7A}.Debug|x86.ActiveCfg = Debug|Win32
+		{37996902-1E59-4D5E-B781-BFAAF7AFAC7A}.Debug|x86.Build.0 = Debug|Win32
+		{37996902-1E59-4D5E-B781-BFAAF7AFAC7A}.Release|x64.ActiveCfg = Release|x64
+		{37996902-1E59-4D5E-B781-BFAAF7AFAC7A}.Release|x64.Build.0 = Release|x64
+		{37996902-1E59-4D5E-B781-BFAAF7AFAC7A}.Release|x86.ActiveCfg = Release|Win32
+		{37996902-1E59-4D5E-B781-BFAAF7AFAC7A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE4CE96-C225-4455-8B67-2A4CB5D9E538}
+	EndGlobalSection
+EndGlobal
